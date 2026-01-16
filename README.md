@@ -1,10 +1,10 @@
-# Hopen
+# hopen
 
 > **⚠️ Early Development:** This project is in active development. Features, documentation, and implementation details are subject to change.
 
 A self-hosted headless CMS with runtime schema definition. No repos, no rebuilds - just pull the container and start creating content.
 
-## Why Hopen?
+## Why hopen?
 
 Traditional headless CMS solutions like Strapi or Sanity require you to:
 - Set up a new repository for each project
@@ -12,7 +12,7 @@ Traditional headless CMS solutions like Strapi or Sanity require you to:
 - Deal with complex containerization
 - Pay for cloud hosting or manage complicated self-hosting
 
-**Hopen changes this:**
+**hopen changes this:**
 - 🚀 Zero-config setup - pull the Docker image and run
 - ⚡ Define content types dynamically via UI/API without restarts
 - 🐳 Container-native from day one
