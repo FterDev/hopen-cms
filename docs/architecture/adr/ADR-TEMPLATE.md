@@ -1,8 +1,10 @@
 # ADR-XXX: [Decision Title]
 
-**Status:** Proposed  
+**Status:** Proposed | Accepted | Rejected | Superseded | Deprecated  
 **Date:** YYYY-MM-DD  
 **Author:** [Name]  
+**Supersedes:** [ADR-XXX] (if applicable)  
+**Superseded by:** [ADR-XXX] (if applicable)  
 
 ## Context
 
