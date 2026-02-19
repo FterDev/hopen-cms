@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Hopen.Api.Admin/Hopen.Api.Admin.csproj" />
+  <Project Path="Hopen.Application/Hopen.Application.csproj" />
+  <Project Path="Hopen.Core/Hopen.Core.csproj" />
+  <Project Path="Hopen.Infrastructure/Hopen.Infrastructure.csproj" />
+</Solution>
